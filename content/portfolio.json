@@ -1,0 +1,417 @@
+{
+  "name": {
+    "en": "Dr. Mostafa Atef Abdelwahab",
+    "ar": "د. مصطفى عاطف عبد الوهاب"
+  },
+  "shortName": {
+    "en": "Dr. Mostafa Atef",
+    "ar": "د. مصطفى عاطف"
+  },
+  "role": {
+    "en": "GP Dentist",
+    "ar": "طبيب أسنان عام"
+  },
+  "location": {
+    "en": "Cairo, Egypt",
+    "ar": "القاهرة، مصر"
+  },
+  "portrait": "mostafa-portrait.png",
+  "phone": "+201127245477",
+  "phoneDisplay": "011 2724 5477",
+  "email": "atefmostafa678@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/mostafa-abdelwahab-313225318/",
+  "cv": "mostafa-cv.pdf",
+  "intro": {
+    "en": "Thoughtful care.\nAttention to every detail.",
+    "ar": "رعاية باهتمام.\nودقة في كل التفاصيل."
+  },
+  "summary": {
+    "en": "A Mansoura University dental graduate focused on restorative care, patient comfort, and a considered approach to everyday dentistry.",
+    "ar": "خريج كلية طب الأسنان بجامعة المنصورة، أهتم بالعلاجات الترميمية وراحة المريض، مع نهج مدروس للعناية اليومية بصحة الفم والأسنان."
+  },
+  "biography": {
+    "en": "I am a general dental practitioner based in Cairo and a graduate of Mansoura University. My clinical interests include restorative dentistry, root canal treatment, preventive care, and treatment planning.\nDuring my university training and internship, I have supported dental examinations, diagnostic imaging, and restorative procedures under clinical supervision. I value clear communication, careful attention to detail, and a comfortable experience for every patient.\nI continue to develop my skills through clinical practice, professional reading, and continuing education.",
+    "ar": "أنا طبيب أسنان عام مقيم بالقاهرة وخريج جامعة المنصورة. تشمل اهتماماتي المهنية طب الأسنان الترميمي وعلاج الجذور والرعاية الوقائية ووضع خطط العلاج.\nخلال دراستي وتدريبي الإكلينيكي، شاركت في فحوصات الأسنان والتصوير التشخيصي والإجراءات الترميمية تحت الإشراف الإكلينيكي. أؤمن بأهمية التواصل الواضح والاهتمام بالتفاصيل وتوفير تجربة مريحة لكل مريض.\nأواصل تطوير مهاراتي من خلال الممارسة الإكلينيكية والقراءة المهنية والتعليم المستمر."
+  },
+  "education": {
+    "degree": {
+      "en": "Bachelor of Dentistry",
+      "ar": "بكالوريوس طب الأسنان"
+    },
+    "institution": {
+      "en": "Mansoura University",
+      "ar": "جامعة المنصورة"
+    },
+    "period": {
+      "en": "October 2020 – July 2025",
+      "ar": "أكتوبر ٢٠٢٠ – يوليو ٢٠٢٥"
+    },
+    "description": {
+      "en": "Clinical and academic training in restorative dentistry, endodontics, oral surgery, dental imaging, patient management, and digital dentistry.",
+      "ar": "تدريب أكاديمي وإكلينيكي في طب الأسنان الترميمي وعلاج الجذور وجراحة الفم والتصوير التشخيصي والتعامل مع المرضى وطب الأسنان الرقمي."
+    }
+  },
+  "experience": [
+    {
+      "title": {
+        "en": "Intern Dentist",
+        "ar": "طبيب أسنان امتياز"
+      },
+      "institution": {
+        "en": "Faculty of Dentistry, Mansoura University",
+        "ar": "كلية طب الأسنان، جامعة المنصورة"
+      },
+      "period": {
+        "en": "November 2025 – November 2026",
+        "ar": "نوفمبر ٢٠٢٥ – نوفمبر ٢٠٢٦"
+      },
+      "points": [
+        {
+          "en": "Supported dental examinations, patient histories, and diagnostic radiographs.",
+          "ar": "المشاركة في فحوصات الأسنان وتسجيل التاريخ الطبي والأشعة التشخيصية."
+        },
+        {
+          "en": "Assisted with fillings, crowns, and root canal procedures under clinical supervision.",
+          "ar": "المساعدة في إجراءات الحشوات والتيجان وعلاج الجذور تحت الإشراف الإكلينيكي."
+        },
+        {
+          "en": "Provided preventive advice and oral hygiene education for different age groups.",
+          "ar": "تقديم الإرشادات الوقائية والتوعية بنظافة الفم لمختلف الفئات العمرية."
+        },
+        {
+          "en": "Maintained infection control standards and collaborated in pediatric and geriatric care.",
+          "ar": "الالتزام بمعايير مكافحة العدوى والمشاركة في رعاية الأطفال وكبار السن."
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "en": "Restorative dentistry",
+      "ar": "طب الأسنان الترميمي"
+    },
+    {
+      "en": "Root canal therapy",
+      "ar": "علاج الجذور"
+    },
+    {
+      "en": "Preventive dentistry",
+      "ar": "طب الأسنان الوقائي"
+    },
+    {
+      "en": "Diagnostic imaging",
+      "ar": "التصوير التشخيصي"
+    },
+    {
+      "en": "Treatment planning",
+      "ar": "تخطيط العلاج"
+    },
+    {
+      "en": "Infection control",
+      "ar": "مكافحة العدوى"
+    },
+    {
+      "en": "Patient communication",
+      "ar": "التواصل مع المرضى"
+    },
+    {
+      "en": "Digital dentistry & CAD/CAM",
+      "ar": "طب الأسنان الرقمي وCAD/CAM"
+    },
+    {
+      "en": "Pediatric & geriatric care",
+      "ar": "رعاية الأطفال وكبار السن"
+    },
+    {
+      "en": "Dental materials",
+      "ar": "مواد طب الأسنان"
+    }
+  ],
+  "languages": [
+    {
+      "name": {
+        "en": "Arabic",
+        "ar": "العربية"
+      },
+      "level": {
+        "en": "Native",
+        "ar": "اللغة الأم"
+      }
+    },
+    {
+      "name": {
+        "en": "English",
+        "ar": "الإنجليزية"
+      },
+      "level": {
+        "en": "B2 · Upper intermediate",
+        "ar": "B2 · فوق المتوسط"
+      }
+    },
+    {
+      "name": {
+        "en": "German",
+        "ar": "الألمانية"
+      },
+      "level": {
+        "en": "A2 · Elementary",
+        "ar": "A2 · أساسي"
+      }
+    }
+  ],
+  "qualities": [
+    {
+      "en": "Attention to detail",
+      "ar": "الاهتمام بالتفاصيل"
+    },
+    {
+      "en": "Clear communication",
+      "ar": "التواصل الواضح"
+    },
+    {
+      "en": "Teamwork",
+      "ar": "العمل الجماعي"
+    },
+    {
+      "en": "Time management",
+      "ar": "إدارة الوقت"
+    }
+  ],
+  "interests": [
+    {
+      "en": "Fitness & running",
+      "ar": "اللياقة البدنية والجري"
+    },
+    {
+      "en": "Photography",
+      "ar": "التصوير الفوتوغرافي"
+    },
+    {
+      "en": "Reading dental journals",
+      "ar": "قراءة المجلات العلمية في طب الأسنان"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "70+",
+      "label": {
+        "en": "Restorative treatments",
+        "ar": "علاج ترميمي"
+      }
+    },
+    {
+      "value": "98%",
+      "label": {
+        "en": "Patient satisfaction",
+        "ar": "رضا المرضى"
+      }
+    },
+    {
+      "value": "90+",
+      "label": {
+        "en": "Patients educated",
+        "ar": "مريضًا تلقوا توعية"
+      }
+    },
+    {
+      "value": "20%",
+      "label": {
+        "en": "Reduction in cavity incidence",
+        "ar": "انخفاض في معدل التسوس"
+      }
+    }
+  ],
+  "certificates": [
+    {
+      "title": {
+        "en": "Udent Endo-Resto Summit 2026",
+        "ar": "ملتقى Udent لعلاج الجذور والترميم ٢٠٢٦"
+      },
+      "date": {
+        "en": "2–3 April 2026",
+        "ar": "٢–٣ أبريل ٢٠٢٦"
+      },
+      "hours": "10",
+      "venue": {
+        "en": "Children’s University Hospital, Mansoura University",
+        "ar": "مستشفى الأطفال الجامعي، جامعة المنصورة"
+      },
+      "file": "udent-certificate.pdf",
+      "image": "udent-certificate.png"
+    }
+  ],
+  "cases": [
+    {
+      "id": "composite-restoration",
+      "category": "composite",
+      "title": {
+        "en": "Composite restoration",
+        "ar": "ترميم تجميلي بالكومبوزيت"
+      },
+      "description": {
+        "en": "A before-and-after photographic comparison of an anterior composite restoration.",
+        "ar": "مقارنة فوتوغرافية قبل وبعد ترميم تجميلي للأسنان الأمامية بالكومبوزيت."
+      },
+      "original": "composite-original.jpg",
+      "views": [
+        {
+          "label": {
+            "en": "Before",
+            "ar": "قبل"
+          },
+          "source": "composite-original.jpg",
+          "width": 1212,
+          "height": 1599,
+          "crop": [
+            615,
+            120,
+            565,
+            1447
+          ],
+          "rotation": 90
+        },
+        {
+          "label": {
+            "en": "After",
+            "ar": "بعد"
+          },
+          "source": "composite-original.jpg",
+          "width": 1212,
+          "height": 1599,
+          "crop": [
+            32,
+            120,
+            566,
+            1447
+          ],
+          "rotation": 90
+        }
+      ]
+    },
+    {
+      "id": "scaling-polishing",
+      "category": "prevention",
+      "title": {
+        "en": "Scaling & polishing",
+        "ar": "إزالة الجير وتلميع الأسنان"
+      },
+      "description": {
+        "en": "Clinical photographs documenting scaling and polishing. Explore both views in full detail.",
+        "ar": "صور إكلينيكية لتوثيق إزالة الجير وتلميع الأسنان. يمكن عرض كل صورة بكامل تفاصيلها."
+      },
+      "original": "scaling-original.png",
+      "views": [
+        {
+          "label": {
+            "en": "Before",
+            "ar": "قبل"
+          },
+          "source": "scaling-original.png",
+          "width": 1280,
+          "height": 960,
+          "crop": [
+            638,
+            220,
+            642,
+            650
+          ],
+          "rotation": 0
+        },
+        {
+          "label": {
+            "en": "After",
+            "ar": "بعد"
+          },
+          "source": "scaling-original.png",
+          "width": 1280,
+          "height": 960,
+          "crop": [
+            80,
+            110,
+            490,
+            710
+          ],
+          "rotation": -90
+        }
+      ]
+    },
+    {
+      "id": "endodontic-treatment",
+      "category": "endodontics",
+      "title": {
+        "en": "Endodontic treatment",
+        "ar": "علاج الجذور"
+      },
+      "description": {
+        "en": "Radiographic documentation of the root canal treatment stages, presented from the supplied case record.",
+        "ar": "توثيق بالأشعة لمراحل علاج الجذور باستخدام الصور المقدمة للحالة."
+      },
+      "original": "endo-original.png",
+      "views": [
+        {
+          "label": {
+            "en": "Before · treatment stage",
+            "ar": "قبل · مرحلة العلاج"
+          },
+          "source": "endo-original.png",
+          "width": 378,
+          "height": 1597,
+          "crop": [
+            0,
+            680,
+            378,
+            917
+          ],
+          "rotation": 0
+        },
+        {
+          "label": {
+            "en": "After",
+            "ar": "بعد"
+          },
+          "source": "endo-original.png",
+          "width": 378,
+          "height": 1597,
+          "crop": [
+            0,
+            0,
+            378,
+            670
+          ],
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "id": "oral-surgery",
+      "category": "surgery",
+      "title": {
+        "en": "Oral surgery",
+        "ar": "جراحة الفم"
+      },
+      "description": {
+        "en": "A radiographic case record from the oral surgery portfolio.",
+        "ar": "صورة أشعة من سجل حالات جراحة الفم."
+      },
+      "original": "surgery-original.png",
+      "views": [
+        {
+          "label": {
+            "en": "Case radiograph",
+            "ar": "أشعة الحالة"
+          },
+          "source": "surgery-original.png",
+          "width": 1200,
+          "height": 1600,
+          "crop": [
+            0,
+            80,
+            1200,
+            1360
+          ],
+          "rotation": 0
+        }
+      ]
+    }
+  ]
+}
